@@ -44,8 +44,10 @@ To run any project:
    ```bash
    cd Lecture_07_Express
 2. Install dependencies:
+   ```bash
    npm install
 3. Run the app:
+   ```bash
    node app.js
 
 🛠️ Tech Stack
